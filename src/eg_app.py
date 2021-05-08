@@ -22,6 +22,11 @@ def branch3():
     x = 10
     return x
 
+def branch4():
+    # comment
+    x = 10
+    return x
+
 if __name__ == '__main__':
     print('x----------------------x')
     print(__file__)
@@ -29,3 +34,4 @@ if __name__ == '__main__':
     print(sys.executable)
     branch2()
     branch3()
+    branch4()
