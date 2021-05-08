@@ -12,7 +12,7 @@ def branch2():
     pass
 
 if __name__ == '__main__':
-    print('x----------------------x')
+    print('x-xxxx---------------------x')
     print(__file__)
     print(sys.version)
     print(sys.executable)
