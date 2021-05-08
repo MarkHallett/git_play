@@ -22,7 +22,7 @@ def branch3():
     x = 10
     return x
 
-def branch4():
+def branch5():
     # comment
     x = 10
     return x
