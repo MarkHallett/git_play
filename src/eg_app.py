@@ -5,11 +5,11 @@ import sys
 from devtools import debug
 
 def b_002b():
-    pass
+    pass  # TODO
 
 def branch2():
     # main branch 2 dev work etc
-    pass
+    pass  # TODO
 
 if __name__ == '__main__':
     print('x----------------------x')
