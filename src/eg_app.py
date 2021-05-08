@@ -4,12 +4,28 @@ import sys
 
 from devtools import debug
 
+
 def b_002b():
-    pass
+    # comment
+    x = 10
+    return x
+
 
 def branch2():
     # main branch 2 dev work etc
-    pass
+    x = 20
+    return x
+
+
+def branch3():
+    # comment
+    x = 10
+    return x
+
+def branch4():
+    # comment
+    x = 10
+    return x
 
 if __name__ == '__main__':
     print('x-xxxx---------------------x')
@@ -17,3 +33,5 @@ if __name__ == '__main__':
     print(sys.version)
     print(sys.executable)
     branch2()
+    branch3()
+    branch4()
