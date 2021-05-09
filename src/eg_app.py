@@ -27,6 +27,11 @@ def branch5():
     x = 10
     return x
 
+
+class EgClass(object):
+    pass
+
+
 if __name__ == '__main__':
     print('x-xxxxyyyyyyy---------------------x')
     print(__file__)
@@ -35,3 +40,5 @@ if __name__ == '__main__':
     branch2()
     branch3()
     branch4()
+
+    EgClass()
